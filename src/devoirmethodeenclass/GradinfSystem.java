@@ -10,10 +10,7 @@ import model.Etudiant;
 import model.Teacher;
 
 
-/**
- *
- * @author Boris
- */
+ 
 public class GradinfSystem {
 
    
